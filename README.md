@@ -7,4 +7,7 @@
 - 
 
 ![01](image.jpg)
-[^1]: :D 
+
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote. 
